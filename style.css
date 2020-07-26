@@ -75,7 +75,8 @@ input {
 }
 
 .close:hover {
-  background-color: #f44336;
+  background-color: #800080;
+  border-radius: 0rem 0.5rem 0.5rem 0rem;
   color: white;
 }
 
